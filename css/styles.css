@@ -97,7 +97,6 @@ a {
 }
 
 .order-button {
-  /*box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);*/
   background: #4d5ae5;
   cursor: pointer;
   line-height: 1.5;
@@ -106,7 +105,6 @@ a {
 }
 
 .order-button:hover, .order-button:focus {
-  /*box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);*/
   background: #404bbf;
   cursor: pointer;
 }
